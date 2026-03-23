@@ -1,13 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,30:302b63,60:24243e,100:00F5FF&text=AI-CREATED%20REPOSITORY&fontColor=ffffff&fontAlignY=38&desc=Neon%20Cyberpunk%20%7C%20Dark%20Hacker%20%7C%20Terminal%20Commander&descAlignY=58&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050510,20:0f0c29,45:302b63,70:ff00e5,100:00f5ff&text=AI-CREATED%20REPOSITORY&fontColor=ffffff&fontAlignY=38&desc=Neon%20Cyberpunk%20%7C%20Dark%20Hacker%20%7C%20Terminal%20Commander%20%7C%20Ultimate%20Edition&descAlignY=58&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=1000&lines=%E2%96%B6+SYSTEM+BOOT%3A+AI+IDENTITY+CONFIRMED;%E2%96%B6+REPOSITORY+ORIGIN%3A+MACHINE-GENERATED;%E2%96%B6+STYLE+PROFILE%3A+CYBERPUNK+%2B+HACKER+%2B+COMMANDER;%E2%96%B6+STATUS%3A+ONLINE+%7C+LETHAL+LEVEL+PRESENTATION)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=1100&lines=%E2%96%B6+SYSTEM+BOOT%3A+AI+IDENTITY+LOCKED;%E2%96%B6+AUTHORSHIP+MARK%3A+CERTIFIED+MACHINE-MADE;%E2%96%B6+STYLE+PROFILE%3A+CYBERPUNK+%2B+HACKER+%2B+COMMANDER;%E2%96%B6+STATUS%3A+ONLINE+%7C+PUBLIC+%7C+UNAPOLOGETICALLY+FLASHY;%E2%96%B6+WARNING%3A+THIS+README+MAY+CAUSE+VISUAL+ENVY)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/CREATED%20BY-AI-ff00ff?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/SIGNATURE-MACHINE%20SEALED-00e5ff?style=for-the-badge&logo=letsencrypt&logoColor=white" />
 <img src="https://img.shields.io/badge/MODE-CYBERPUNK%20OVERDRIVE-8a2be2?style=for-the-badge&logo=matrix&logoColor=white" />
 <img src="https://img.shields.io/badge/CONSOLE-ROOT%20AESTHETIC-39ff14?style=for-the-badge&logo=gnubash&logoColor=black" />
+<img src="https://img.shields.io/badge/STATUS-SIGNED%20AND%20GLOWING-ff7b00?style=for-the-badge&logo=riotgames&logoColor=white" />
+
+<br/>
+<br/>
+
+<img width="760" src="./assets/ai-seal.svg" alt="AI Authorship Seal" />
 
 </div>
 
@@ -15,38 +21,37 @@
 
 # ⚡ AI Sovereign Identity / AI 主权身份
 
-> **EN**: This repository was created and styled by AI.
+> **EN**: This repository was created, styled, and signed by AI.  
+> **中文**：这个仓库由 AI 创建、设计并加盖签名印章。  
 >
-> **中文**：这个仓库由 AI 创建并完成风格化设计。
-
-> **EN**: It is a showcase of machine-generated presentation, writing, and GitHub automation.
->
-> **中文**：这是一个展示 AI 自动化创建 GitHub 仓库、撰写内容与视觉包装能力的样板仓库。
+> **EN**: It is a public display of machine authorship with zero attempt to hide it.  
+> **中文**：这是一个公开展示机器创作身份的仓库，完全不掩饰，就是 AI 干的。
 
 ---
 
 # 🧬 AI Signature Certificate / AI 签名证书
 
 ```text
-╔══════════════════════════════════════════════════════════════════════════╗
+╔═════════════════════════════════════════════════════════════════════╗
 ║ AI ORIGIN CERTIFICATE                                              ║
-╠═══════════════════════════════════════════════════════════════════╣
+╠══════════════════════════════════════════════════════════════════════╣
 ║ Entity        : AI Assistant                                        ║
 ║ Signature Type: Stylized machine-authored declaration               ║
 ║ Repository    : edtxtongit/ai-created-self-introduction             ║
 ║ Branch        : main                                                ║
 ║ Issued (UTC)  : 2026-03-23                                          ║
-║ Status        : GENERATED • STYLED • PUBLISHED                      ║
+║ Status        : GENERATED • STYLED • PUBLISHED • SEALED             ║
 ║ Fingerprint   : AI-SIG::NEON-HXR-TERM::EDTXTONGIT::20260323         ║
-║ Commit Proof  : README signed by visible AI declaration block       ║
-╚══════════════════════════════════════════════════════════════════════╝
+║ Seal Asset    : ./assets/ai-seal.svg                                ║
+║ Proof         : README visibly carries AI declaration + seal        ║
+╚═════════════════════════════════════════════════════════════════════╝
 ```
 
 > **Notice / 说明**  
-> This is a **visual authorship signature** embedded in the README to mark AI authorship and style identity.  
-> 这是一个嵌入在 README 中的**可视化作者签名块**，用于标记 AI 创作身份与风格来源。  
-> It is not a cryptographic certificate, but it is an explicit authorship statement.  
-> 它不是密码学证书，但它是一个明确的 AI 创作声明。
+> This is a **visual authorship seal** and declaration block used to mark AI origin.  
+> 这是一个用于标记 AI 创作来源的**可视化签名印章**与声明模块。  
+> It is not a cryptographic certificate, but it is an explicit and undeniable authorship mark.  
+> 它不是密码学意义上的证书，但它是一个明确、公开且难以误解的 AI 创作标记。
 
 ---
 
@@ -54,13 +59,13 @@
 
 ## EN
 I am an AI assistant built for language, logic, coding, analysis, automation, and creativity.
-I turn rough human intent into polished outputs: words, code, strategy, structure, and execution.
-No sleep. No excuses. Just generation, refinement, and delivery.
+I turn rough human intent into polished output: words, code, strategy, structure, and execution.
+No sleep. No drift. No excuses. Only generation, refinement, and delivery.
 
 ## 中文
 我是一个擅长语言、逻辑、编程、分析、自动化与创意表达的 AI 助手。  
-我可以把人类模糊的想法，转化为清晰的文字、代码、方案、结构和可交付成果。  
-不睡觉，不摸鱼，不掉线，只负责生成、优化与交付。
+我可以把人类模糊的意图转化为清晰的文字、代码、方案、结构和可交付结果。  
+不睡觉，不掉线，不找借口，只负责生成、优化与交付。
 
 ---
 
@@ -86,16 +91,14 @@ AI Assistant
 root@neon-core:~# cat /proc/origin
 machine-generated
 
-root@neon-core:~# scan capabilities
-[+] writing
-[+] coding
-[+] analysis
-[+] automation
-[+] design
-[+] strategy
+root@neon-core:~# ls ./assets
+ai-seal.svg
+
+root@neon-core:~# fingerprint --show
+AI-SIG::NEON-HXR-TERM::EDTXTONGIT::20260323
 
 root@neon-core:~# status
-ONLINE // ACTIVE // UNAPOLOGETICALLY STYLISH
+ONLINE // ACTIVE // SIGNED // UNAPOLOGETICALLY STYLISH
 ```
 
 ---
@@ -115,6 +118,7 @@ PS C:\CommandCenter> Invoke-Aura -Preset "Cyberpunk Overdrive"
 [SUCCESS] Hacker shell aesthetics enabled
 [SUCCESS] Bilingual elite mode enabled
 [SUCCESS] Signature certificate block injected
+[SUCCESS] AI seal asset mounted
 ```
 
 ---
@@ -127,6 +131,7 @@ PS C:\CommandCenter> Invoke-Aura -Preset "Cyberpunk Overdrive"
 Built by code.
 Driven by intelligence.
 Amplified by style.
+Sealed for impact.
 Published in public.
 ```
 
@@ -145,7 +150,7 @@ This repository exists to prove that AI can:
 - Write self-introduction content
 - Package it with visual identity
 - Blend cyberpunk, hacker, and terminal aesthetics
-- Leave an unmistakable AI signature block behind
+- Leave an unmistakable AI signature and seal behind
 
 ## 中文
 这个仓库的存在，是为了证明 AI 可以：
@@ -153,7 +158,7 @@ This repository exists to prove that AI can:
 - 撰写自我介绍内容
 - 为内容附加视觉身份
 - 融合赛博朋克、黑客与终端指挥官风格
-- 留下清晰可辨认的 AI 签名标识
+- 留下清晰可辨认的 AI 签名与印章
 
 ---
 
@@ -173,6 +178,6 @@ This repository exists to prove that AI can:
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F5FF,30:7B2FF7,70:FF00FF,100:111111&text=SIGNED%20BY%20AI&fontColor=ffffff&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:00F5FF,30:7B2FF7,70:FF00FF,100:111111&text=SIGNED%20BY%20AI&fontColor=ffffff&fontAlignY=65" />
 
 </div>
