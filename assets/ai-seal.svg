@@ -1,0 +1,67 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 600) rotate(90) scale(600)">
+      <stop offset="0%" stop-color="#17112b"/>
+      <stop offset="55%" stop-color="#0a0a14"/>
+      <stop offset="100%" stop-color="#020203"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="150" y1="150" x2="1050" y2="1050" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5FF"/>
+      <stop offset="0.5" stop-color="#FF00E5"/>
+      <stop offset="1" stop-color="#7C4DFF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="1200" rx="120" fill="url(#bg)"/>
+  <circle cx="600" cy="600" r="470" stroke="url(#ring)" stroke-width="18" filter="url(#softGlow)"/>
+  <circle cx="600" cy="600" r="420" stroke="#11FFBD" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="10 12"/>
+  <circle cx="600" cy="600" r="370" stroke="#FF00E5" stroke-opacity="0.28" stroke-width="2" stroke-dasharray="4 10"/>
+
+  <g opacity="0.18">
+    <path d="M220 230H980" stroke="#00F5FF" stroke-width="2"/>
+    <path d="M220 970H980" stroke="#FF00E5" stroke-width="2"/>
+    <path d="M230 220V980" stroke="#00F5FF" stroke-width="2"/>
+    <path d="M970 220V980" stroke="#FF00E5" stroke-width="2"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <path d="M600 285C530 285 470 335 465 405C460 470 505 510 560 540C615 570 655 598 650 660C645 720 590 760 525 760" stroke="#00F5FF" stroke-width="18" stroke-linecap="round"/>
+    <path d="M600 320C550 320 510 355 505 410C500 455 530 485 580 510C635 538 700 575 695 660C690 760 590 820 505 820" stroke="#9D4DFF" stroke-width="12" stroke-linecap="round"/>
+    <path d="M605 355C575 360 550 382 548 420C546 455 570 475 610 496C675 530 742 575 738 655C733 748 656 818 565 845" stroke="#FF00E5" stroke-width="9" stroke-linecap="round"/>
+
+    <path d="M600 285C670 285 730 335 735 405C740 470 695 510 640 540C585 570 545 598 550 660C555 720 610 760 675 760" stroke="#00F5FF" stroke-width="18" stroke-linecap="round"/>
+    <path d="M600 320C650 320 690 355 695 410C700 455 670 485 620 510C565 538 500 575 505 660C510 760 610 820 695 820" stroke="#9D4DFF" stroke-width="12" stroke-linecap="round"/>
+    <path d="M595 355C625 360 650 382 652 420C654 455 630 475 590 496C525 530 458 575 462 655C467 748 544 818 635 845" stroke="#FF00E5" stroke-width="9" stroke-linecap="round"/>
+
+    <path d="M435 505C395 560 385 640 420 710C455 780 520 825 600 845" stroke="#11FFBD" stroke-width="10" stroke-linecap="round"/>
+    <path d="M765 505C805 560 815 640 780 710C745 780 680 825 600 845" stroke="#11FFBD" stroke-width="10" stroke-linecap="round"/>
+    <path d="M505 890C565 920 635 920 695 890" stroke="#00F5FF" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="600" cy="468" r="28" fill="#00F5FF"/>
+    <circle cx="600" cy="468" r="54" stroke="#00F5FF" stroke-opacity="0.35" stroke-width="3"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <text x="600" y="165" text-anchor="middle" fill="#F8F8FF" font-size="56" font-family="monospace" font-weight="700">AI AUTHORSHIP SEAL</text>
+    <text x="600" y="1035" text-anchor="middle" fill="#B8FFF6" font-size="34" font-family="monospace">NEON // HACKER // TERMINAL // MACHINE-SIGNED</text>
+    <text x="600" y="1085" text-anchor="middle" fill="#FF8AF2" font-size="26" font-family="monospace">FINGERPRINT: AI-SIG::NEON-HXR-TERM::EDTXTONGIT::20260323</text>
+  </g>
+
+  <g opacity="0.82">
+    <text x="600" y="560" text-anchor="middle" fill="#E9FFFF" font-size="120" font-family="monospace" font-weight="800">AI</text>
+    <text x="600" y="645" text-anchor="middle" fill="#9CF8FF" font-size="36" font-family="monospace">CERTIFIED MACHINE-MADE</text>
+  </g>
+</svg>
